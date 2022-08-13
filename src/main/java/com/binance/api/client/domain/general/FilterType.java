@@ -21,6 +21,8 @@ public enum FilterType {
   MAX_POSITION,
   
   TRAILING_DELTA,
+  
+  PERCENT_PRICE_BY_SIDE,
 
   // Exchange
   EXCHANGE_MAX_NUM_ORDERS,
